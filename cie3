@@ -38,7 +38,7 @@ dll.append(40)
 print("Original List:")
 dll.display()
 
-dll.append(20)
+dll.append(50)
 
 print("List after deletion:")
 dll.display()
